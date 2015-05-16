@@ -1,0 +1,7 @@
+git init initializes a git repository
+
+git add fileName stages a fileName for commit
+
+git commit -m "First commit" commits changes to files staged with git add, in this case fileName, with the comment First commit
+
+git clone git://github.com/username/repository_location will clone a repository from github

@@ -1,0 +1,13 @@
+cd shanges dir
+
+mkdir creates a directory
+
+ls list files in current directory
+
+rmdir removes a directory
+
+nano .bash_profile will open bash_profile in nano in the bash shell
+
+open .bash_profile will open .bash_profile in text edit in fish
+
+alias nt="git init" creates an alias in bash_profile which will shortcut nt to git init
